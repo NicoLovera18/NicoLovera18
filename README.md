@@ -1,16 +1,26 @@
-## Hi there 👋
+# Mi Perfil super asombroso de GitHub
 
-<!--
-**NicoLovera18/NicoLovera18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Wenas, soy Nicolas Lovera 👋
 
-Here are some ideas to get you started:
+### Yo
+- Estudiante de ingeniería de sistemas y programación de segunda matricula.
+- Aprendiendo a programar en python, cálculo diferencial, principios básicos de electrónica y lengua coreana (안녕하세요).
+- Mis metas son ganar plata, tener las bases en varios lenguajes de programación, ser bilingüe y viajar a muchos paises.
+  
+### Habilidades
+- Aprendizaje rápido.
+- Buen trabajo en equipo.
+- Amplias habilidades comunicativas y sociales.
+- Dispuesto a aprender y a ayudar.
+- B1 en inglés.
+- Habilidades artísticas.
+- Habilidades físicas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Debilidades
+- Mal lider.
+- Poca atención.
+- Procrastinación.
+
+  
+
+
